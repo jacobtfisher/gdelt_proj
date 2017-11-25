@@ -1,0 +1,153 @@
+,Type,Name,Date Added,Modified History,Description
+5,Theme,AGRICULTURE,13/10/2013,13/10/2013,General discussion of agriculture
+6,Theme,ALLIANCE,18/05/2014,18/05/2014,Self-identified discussion of alliances and coalitions
+7,Theme,APPOINTMENT,13/10/2013,13/10/2013,An appointment of someone to something
+8,Theme,ARMEDCONFLICT,13/10/2013,13/10/2013,"Primary discussion of armed conflict, from ground assaults to air raids"
+10,Theme,ASSASSINATION,13/10/2013,13/10/2013,Actual discussion of assassination
+11,Theme,AUSTERITY,20/02/2014,20/02/2014,Mention of austerity.
+12,Theme,AVIATION_INCIDENT,20/02/2014,20/02/2014,"Plane/helicopter crashes, collisions, accidents."
+13,Theme,BAN,13/10/2013,13/10/2013,"Something being banned, prohibited, outlawed, criminalized, etc"
+14,Theme,BLACK_MARKET,13/10/2013,13/10/2013,"Actual mentions of ""black market"", not related terms"
+15,Theme,BLOCKADE,13/10/2013,13/10/2013,Mentions of blockades and no fly zones - use in combination with the military themes to distinguish armed vs non-kinetic blockades
+16,Theme,BORDER,13/10/2013,13/10/2013,Any discussion of borders
+17,Theme,BULLYING,20/12/2013,20/12/2013,"Explicit mention of the word ""bullying/cyberbullying"""
+18,Theme,CEASEFIRE,13/10/2013,13/10/2013,"Mentions of ceasefires, truces, peace deals, suspension of hostilities, etc"
+19,Theme,CHARASMATIC_LEADERSHIP,06/05/2014,06/05/2014,Charasmatic leadership
+20,Theme,CHECKPOINT,13/10/2013,13/10/2013,Security checkpoints
+21,Theme,CLAIM_CREDIT,13/10/2013,13/10/2013,"Claims of responsibility or credit, for good (claimed credit for the success) and bad (claimed credit for the bombing)"
+22,Theme,CLOSURE,13/10/2013,13/10/2013,"Discussion of closure other than road, bridge, street, closure (ie, facility closure, military base closure, etc)"
+23,Theme,CONFISCATION,13/10/2013,13/10/2013,Actual mention of confiscation in the text
+24,Theme,CONSTITUTIONAL,13/10/2013,13/10/2013,Discussion of constitutionalism
+25,Theme,CORRUPTION,13/10/2013,13/10/2013,"Corruption, kickbacks, embezzling, profiteering, etc"
+26,Theme,CRIME_CARTELS,13/10/2013,13/10/2013,"Primarily focused around mentions of drug cartels, drug corridors, etc.  Does not currently have a list of cartels, just captures general discussion of them"
+27,Theme,CRIME_COMMON_ROBBERY,13/10/2013,13/10/2013,"Discussion of general crime like pickpocketing, robbery, street criminals, etc"
+28,Theme,CRIME_ILLEGAL_DRUGS,13/10/2013,13/10/2013,Mentions of illegal drugs
+29,Theme,CURFEW,13/10/2013,13/10/2013,Discussion of any curfew
+30,Theme,CYBER_ATTACK,13/10/2013,13/10/2013,"Any discussion of cyberwarfare, cyberattacks, phishing, hacking, hacktivists, viruses, etc"
+31,Theme,DEATH_PENALTY,13/10/2013,13/10/2013,From general discussion of capital punishment to actual mentions of death sentences
+32,Theme,DEFECTION,13/10/2013,13/10/2013,Any discussion of defection or defectors
+33,Theme,DELAY,13/10/2013,13/10/2013,"Canceling, postponing, stalling delaying anything"
+34,Theme,DEMOCRACY,13/10/2013,13/10/2013,"Actual mention of the term ""democracy"""
+35,Theme,DISABILITY,20/02/2014,20/02/2014,"Disability, disabled, handicapped."
+36,Theme,DISCRIMINATION,13/10/2013,13/10/2013,"Racism, homophobia, xenophobia, etc"
+38,Theme,DRONE,20/02/2014,20/02/2014,"Drones, UAVs."
+39,Theme,DRUG_TRADE,13/10/2013,13/10/2013,General discussion of the drug trade in broad terms - broader than the other categories
+66,Theme,EDUCATION,13/10/2013,13/10/2013,"Teachers, schools, madrassas, yeshivas, professors, education in general"
+67,Theme,ELECTION,13/10/2013,13/10/2013,Elections of any kind
+68,Theme,ELECTION_FRAUD,13/10/2013,13/10/2013,"Election fraud, from ballot stuffing to vote rigging"
+91,Theme,ETH_INDIGINOUS,01/10/2014,01/10/2014,Discussion of indiginous peoples
+93,Theme,EXHUMATION,13/10/2013,13/10/2013,"Discussion of mass graves, exhumation, unearthing of bodies, human remains, etc"
+94,Theme,EXILE,13/10/2013,13/10/2013,Actual mention of exile in the text
+95,Theme,EXTREMISM,13/10/2013,13/10/2013,"Discussion of extremists, both political (farright/farleft/anarchist), groups like skinheads, and terms like zealot, ""fringe element"", etc"
+96,Theme,FIREARM_OWNERSHIP,25/04/2014,25/04/2014,Gun rights
+97,Theme,FOOD_SECURITY,13/10/2013,13/10/2013,"Famine, food crisis, malnourishment, food prices"
+98,Theme,FOOD_STAPLE,27/11/2013,27/11/2013,"Captures explicit mention of terms like ""food staple"""
+99,Theme,FREESPEECH,13/10/2013,13/10/2013,Freedom of speech
+100,Theme,FUELPRICES,20/02/2014,20/02/2014,"Cost of fuel, energy, heating."
+101,Theme,GEN_HOLIDAY,01/10/2014,01/10/2014,General discussion of holidays
+102,Theme,GENDER_VIOLENCE,04/11/2013,04/11/2013,Gender violence
+103,Theme,GENERAL_GOVERNMENT,13/10/2013,13/10/2013,"General discussion of government, congress, parliament, republic, regime, etc"
+104,Theme,GENERAL_HEALTH,13/10/2013,13/10/2013,"Any general discussion of human, animal, plant, etc health, from hygiene to hospitals, doctors to disease"
+105,Theme,GENTRIFICATION,19/05/2014,19/05/2014,Gentrification
+111,Theme,GRIEVANCES,20/02/2014,20/02/2014,"Mention of the term ""grievances"" as explicit discussion of societal unhappiness."
+112,Theme,HARASSMENT,20/12/2013,20/12/2013,"Explicit mention of the word ""harassment"""
+113,Theme,HATE_SPEECH,20/12/2013,20/12/2013,"Explicit mention of the phrase ""hate speech"""
+117,Theme,HUMAN_TRAFFICKING,13/10/2013,13/10/2013,"Human trafficking, sexual slavery, prostitution, human smuggling, etc"
+118,Theme,IDEOLOGY,22/05/2014,22/05/2014,Self-identified discussion of ideology
+119,Theme,IMMIGRATION,13/10/2013,13/10/2013,Discussion of immigration
+120,Theme,IMPEACHMENT,13/10/2013,13/10/2013,Impeachment
+121,Theme,INFO_HOAX,01/10/2014,01/10/2014,Discussion of hoaxes
+122,Theme,INFO_RUMOR,01/10/2014,01/10/2014,Discussion of rumors
+123,Theme,INFRASTRUCTURE_BAD_ROADS,20/02/2014,20/02/2014,"Mentions of potholes, impassable roads, blocked roads, etc."
+124,Theme,INSURGENCY,15/05/2014,15/05/2014,Self-identified discussion of insurgency
+125,Theme,INTERNET_BLACKOUT,13/10/2013,13/10/2013,Mentions of internet blackouts
+126,Theme,INTERNET_CENSORSHIP,13/10/2013,13/10/2013,"Internet censorship such as blocking websites, etc"
+127,Theme,JIHAD,13/10/2013,13/10/2013,"Actual mentions of ""jihad"" and ""holy war"""
+130,Theme,LANDMINE,13/10/2013,13/10/2013,"Landmines, IEDs, antipersonnel mines, etc"
+131,Theme,LEADER,13/10/2013,13/10/2013,"Political elites, such as lawmakers, presidents, supreme leaders, etc"
+132,Theme,LEGALIZE,13/10/2013,13/10/2013,"Something being legalized, laws being repealed, etc"
+133,Theme,LEGISLATION,13/10/2013,13/10/2013,Discussion of laws
+134,Theme,LGBT,04/11/2013,04/11/2013,"Lesbian, Gay, Bisexual, and Transgender discussion"
+135,Theme,LITERACY,13/10/2013,13/10/2013,Discussion of literacy and illiteracy
+136,Theme,LOCUSTS,13/10/2013,13/10/2013,Mentions of locusts
+137,Theme,MANMADE_DISASTER,13/10/2013,13/10/2013,"Failure of manmade infrastructure such as car crashes, bridge collapses, derailments, plane crashes, etc"
+138,Theme,MANMADE_DISASTER_IMPLIED,13/10/2013,13/10/2013,"Discussion of disasters in context with manmade structures, but where the relationship is not fully clear, but is implied"
+139,Theme,MARITIME,13/10/2013,13/10/2013,General discussion of the maritime environment
+144,Theme,MEDIA_CENSORSHIP,13/10/2013,13/10/2013,"Censorship of the mainstream media, such as arresting journalists, press freedoms, etc"
+145,Theme,MEDIA_MSM,13/10/2013,13/10/2013,"Any mention of mainstream media such as television, reporter, journalist, etc.  Often flags just a mention of a ""reporter"", but can be used to capture discussion of MSM overall"
+146,Theme,MEDIA_SOCIAL,13/10/2013,13/10/2013,"Any mention of social media such as Facebook, Twitter, etc.  Often flags mentions of ""follow me on twitter"", but useful proxy for discussion of social media"
+147,Theme,MEDICAL,13/10/2013,13/10/2013,"More narrowly focused on healthcare like nurses, health services, addiction treatment, etc"
+148,Theme,MEDICAL_SECURITY,20/02/2014,20/02/2014,"Access to doctors, healthcare, poor medical access, etc."
+150,Theme,MIL_WEAPONS_PROLIFERATION,04/11/2013,04/11/2013,Weapons proliferation
+151,Theme,MILITARY,13/10/2013,13/10/2013,General discussion of the military
+152,Theme,MILITARY_COOPERATION,13/10/2013,13/10/2013,"Actual mentions of military ties, military aid, defense cooperation, etc (where the text explicitly labels it as such)"
+158,Theme,NATURAL_DISASTER,13/10/2013,13/10/2013,"From floods to coldsnaps, wildfires to tornadoes"
+159,Theme,NEGOTIATIONS,13/10/2013,13/10/2013,"Discussion of bargaining, negotations, etc."
+160,Theme,NEW_CONSTRUCTION,13/10/2013,13/10/2013,"Mentions of new construction, new roads, etc"
+161,Theme,ORGANIZED_CRIME,13/10/2013,13/10/2013,"Discussion of gangs, mafia, organized crime, etc"
+162,Theme,PEACEKEEPING,13/10/2013,13/10/2013,"Mentions of peacekeepers, UN forces, etc"
+163,Theme,PERSECUTION,04/11/2013,04/11/2013,"Actual mentions of ""persecution"""
+164,Theme,PHONE_OUTAGE,20/02/2014,20/02/2014,Interruption of phone service.
+165,Theme,PIPELINE_INCIDENT,20/02/2014,20/02/2014,Pipeline explosion or damage.
+166,Theme,PIRACY,13/10/2013,13/10/2013,"Piracy, hijacking, etc (but not software/music/etc piracy)"
+167,Theme,POL_HOSTVISIT,01/10/2014,01/10/2014,Hosting a visit
+168,Theme,POLITICAL_PRISONER,13/10/2013,13/10/2013,Explicit mention of political prisoners or labor camps
+169,Theme,POLITICAL_TURMOIL,13/10/2013,13/10/2013,"Discussion of major unrest such as martial law, political ""crisis"", state of emergency, violent supression, etc."
+170,Theme,POPULATION_DENSITY,17/05/2014,17/05/2014,Population density
+171,Theme,POVERTY,13/10/2013,13/10/2013,"Poverty, homeless, destitute"
+172,Theme,POWER_OUTAGE,25/10/2013,25/10/2013,"Mentions of power failures - these are also captured under MANMADE_DISASTER, but are broken out here so that they can be specifically selected"
+173,Theme,PRIVATIZATION,20/02/2014,20/02/2014,Mention of privatization or deregulation.
+174,Theme,PROPAGANDA,13/10/2013,13/10/2013,"Explicit mention of ""propaganda"""
+175,Theme,PROPERTY_RIGHTS,13/10/2013,13/10/2013,"Discussion of property rights, land tenure, eminent domain, land confiscation"
+177,Theme,PUBLIC_TRANSPORT,13/10/2013,13/10/2013,Public transportation from buses to subways
+178,Theme,RAIL_INCIDENT,20/02/2014,20/02/2014,"Train accidents, derailments, etc."
+179,Theme,RAPE,13/10/2013,13/10/2013,"Rape, sexual slavery, sex crime, etc"
+180,Theme,RATIFY,13/10/2013,13/10/2013,"Mention of something actually being adopted, signed into law, ratified, etc"
+181,Theme,REBELLION,13/10/2013,13/10/2013,"Mutinies, uprisings, civil war, etc"
+182,Theme,REBELS,14/05/2014,14/05/2014,Self-identified discussion of rebels
+183,Theme,RECRUITMENT,11/05/2014,11/05/2014,Recruitment
+185,Theme,REL_ANTISEMITISM,01/10/2014,01/10/2014,Anti-semitism
+186,Theme,RELATIONS,13/10/2013,13/10/2013,"Narrow focus on ""improving relations"", ""restarting talks"", ""bilateral talks"", etc"
+187,Theme,RELEASE_HOSTAGE,13/10/2013,13/10/2013,A hostage being released
+188,Theme,RELEASE_PRISON,13/10/2013,13/10/2013,Someone being released from prison/jail
+189,Theme,RELIGION,13/10/2013,13/10/2013,"Just mention of terms like ""religion"" or ""secular"", not actual religions"
+190,Theme,RESIGNATION,13/10/2013,13/10/2013,A resignation
+191,Theme,RETALIATE,13/10/2013,13/10/2013,"Actual mentions of ""reprisals"", ""avenge"", ""strike back"", etc"
+192,Theme,RETIREMENT,20/02/2014,20/02/2014,"Any mention of ""retirement"" (not ""retiring"", etc) or pensions."
+193,Theme,RETIREMENTS,13/10/2013,13/10/2013,A retirement
+194,Theme,ROAD_INCIDENT,20/02/2014,20/02/2014,"Bridge/road failure, crashes, and accidents."
+195,Theme,RURAL,21/05/2014,21/05/2014,Discussion of the rural environment
+196,Theme,SANCTIONS,13/10/2013,13/10/2013,Sanctions and embargoes
+197,Theme,SANITATION,20/02/2014,20/02/2014,"Any mention related to sanitation, toilets, etc"
+198,Theme,SCANDAL,13/10/2013,13/10/2013,"Mention of scandal, disgraced, etc, where it has been self-identified in the text as a scandal"
+199,Theme,SCIENCE,13/10/2013,13/10/2013,"Just mentions of scientist, researcher, invention, innovation, scientific discovery, etc"
+200,Theme,SECURITY_SERVICES,13/10/2013,13/10/2013,"Discussion of primarily internal security services like police, law enforcement, secret police, and also peacekeepers"
+201,Theme,SEIGE,13/10/2013,13/10/2013,"Seiges, besieging, blockades, checkpoints, etc"
+207,Theme,SEPARATISTS,13/05/2014,13/05/2014,Self-identified discussion of separatists
+208,Theme,SHORTAGE,13/10/2013,13/10/2013,"Shortages, blackouts, brownouts, rationing, etc of anything"
+223,Theme,SLUMS,04/11/2013,04/11/2013,"Slums, shantytowns, etc"
+224,Theme,SMUGGLING,04/11/2013,04/11/2013,"Smuggling of anything, including arms traficking"
+239,Theme,SOVEREIGNTY,13/10/2013,13/10/2013,"Actual mentions of ""sovereignty"", ""proclaim independence"", ""independent state"", etc"
+240,Theme,STATE_OF_EMERGENCY,13/10/2013,13/10/2013,"Martial law, state of emergency, emergency rule, etc"
+241,Theme,STRIKE,13/10/2013,13/10/2013,"Strikes, work stoppages, lock outs, etc"
+242,Theme,SUICIDE_ATTACK,13/10/2013,13/10/2013,Suicide attacks
+243,Theme,SURVEILLANCE,20/02/2014,20/02/2014,"Surveillance, spying."
+244,Theme,TAKE_OFFICE,13/10/2013,13/10/2013,"Mention of someone taking office either through force or through normal channels (took office, seized office, etc)"
+257,Theme,TERROR,13/10/2013,13/10/2013,"Primary discussion of terrorists, bombings, assasinations, etc"
+258,Theme,TORTURE,13/10/2013,13/10/2013,"Just mentions of the term ""torture"", not actual torture techniques like waterboarding"
+259,Theme,TOURISM,13/10/2013,13/10/2013,"Actual mentions of ""tourism"", ""tourists"", etc, not related terms"
+260,Theme,TRAFFIC,20/02/2014,20/02/2014,Road traffic.
+261,Theme,TRANSPARENCY,20/02/2014,20/02/2014,Any mention of transparency or accountability.
+262,Theme,TREASON,13/10/2013,13/10/2013,"Treason, sedition, insurrection."
+263,Theme,TRIAL,13/10/2013,13/10/2013,"Trail, courts, judges, lawyers, lawsuits, etc"
+264,Theme,UNEMPLOYMENT,13/10/2013,13/10/2013,"Joblessness, unemployment"
+265,Theme,UNGOVERNED,12/05/2014,12/05/2014,Ungoverned spaces
+273,Theme,UNSAFE_WORK_ENVIRONMENT,20/02/2014,20/02/2014,"Work injuries, killed on the job, working conditions, etc."
+274,Theme,URBAN,20/05/2014,20/05/2014,Discussion of the urban environment
+275,Theme,URBAN_SPRAWL,16/05/2014,16/05/2014,Urban sprawl
+276,Theme,VANDALIZE,13/10/2013,13/10/2013,"Vandalizing, desecration, defacing"
+277,Theme,VETO,13/10/2013,13/10/2013,"Actual mentions of ""veto"", ""voted against"", etc"
+278,Theme,VIOLENT_UNREST,13/10/2013,13/10/2013,"Discussion of violent unrest, from rubber bullets, firing into a crowd, clashes with police or soldiers, violent rioting, etc"
+279,Theme,WATER_SECURITY,13/10/2013,13/10/2013,"Drought, water access, lack of rain, clean water, etc"
+280,Theme,WHISTLEBLOWER,13/10/2013,13/10/2013,"Whistleblowers, document leaks, etc"
+281,Theme,WMD,13/10/2013,13/10/2013,"Weapons of mass distruction, from nuclear to biological to chemical warfare"
